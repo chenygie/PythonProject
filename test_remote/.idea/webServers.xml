@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ssh://root@47.98.121.190:22/usr/bin/python" name="ssh://root@47.98.121.190:22/usr/bin/python" url="http://47.98.121.190">
+        <fileTransfer host="47.98.121.190" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" accessType="SFTP" keyPair="true">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
