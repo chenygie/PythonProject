@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aca11b5e-1e19-41a2-a962-0f30a826bfa8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Visualization.iml" afterPath="$PROJECT_DIR$/.idea/Visualization.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -272,6 +270,14 @@
       <option name="presentableId" value="Default" />
       <updated>1539757711682</updated>
     </task>
+    <task id="LOCAL-00001" summary="check 2018年11月13号">
+      <created>1542096160623</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1542096160623</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -313,6 +319,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="check 2018年11月13号" />
+    <option name="LAST_COMMIT_MESSAGE" value="check 2018年11月13号" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
